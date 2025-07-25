@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 12 30 4f 33 c4 e4 a3-47 1e 65 dc a7 ab c7 eb</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">CowZone.vmx</vmxPathName></VM></Foundry>

@@ -1,0 +1,53 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=e37fb954
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 65536000 SPARSE "CowZone-s001.vmdk"
+RW 65536000 SPARSE "CowZone-s002.vmdk"
+RW 65536000 SPARSE "CowZone-s003.vmdk"
+RW 65536000 SPARSE "CowZone-s004.vmdk"
+RW 65536000 SPARSE "CowZone-s005.vmdk"
+RW 65536000 SPARSE "CowZone-s006.vmdk"
+RW 65536000 SPARSE "CowZone-s007.vmdk"
+RW 65536000 SPARSE "CowZone-s008.vmdk"
+RW 65536000 SPARSE "CowZone-s009.vmdk"
+RW 65536000 SPARSE "CowZone-s010.vmdk"
+RW 65536000 SPARSE "CowZone-s011.vmdk"
+RW 65536000 SPARSE "CowZone-s012.vmdk"
+RW 65536000 SPARSE "CowZone-s013.vmdk"
+RW 65536000 SPARSE "CowZone-s014.vmdk"
+RW 65536000 SPARSE "CowZone-s015.vmdk"
+RW 65536000 SPARSE "CowZone-s016.vmdk"
+RW 65536000 SPARSE "CowZone-s017.vmdk"
+RW 65536000 SPARSE "CowZone-s018.vmdk"
+RW 65536000 SPARSE "CowZone-s019.vmdk"
+RW 65536000 SPARSE "CowZone-s020.vmdk"
+RW 65536000 SPARSE "CowZone-s021.vmdk"
+RW 65536000 SPARSE "CowZone-s022.vmdk"
+RW 65536000 SPARSE "CowZone-s023.vmdk"
+RW 65536000 SPARSE "CowZone-s024.vmdk"
+RW 65536000 SPARSE "CowZone-s025.vmdk"
+RW 65536000 SPARSE "CowZone-s026.vmdk"
+RW 65536000 SPARSE "CowZone-s027.vmdk"
+RW 65536000 SPARSE "CowZone-s028.vmdk"
+RW 65536000 SPARSE "CowZone-s029.vmdk"
+RW 65536000 SPARSE "CowZone-s030.vmdk"
+RW 65536000 SPARSE "CowZone-s031.vmdk"
+RW 65536000 SPARSE "CowZone-s032.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "130541"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "08e509c889a0ff63c4600e1ce37fb954"
+ddb.toolsInstallType = "4"
+ddb.toolsVersion = "12421"
+ddb.uuid = "60 00 C2 99 45 05 ad c1-c1 79 f2 9d 80 87 c0 e1"
+ddb.virtualHWVersion = "19"
